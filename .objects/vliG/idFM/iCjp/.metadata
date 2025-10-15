@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Yahoo News Latest and Breaking News, H",
+  "Type": "Screen",
+  "Id": "iCjpgAxASESa7hclZ8PaAg",
+  "Reference": "JHzqfAidf0Sd7FJgTn8qbg/iCjpgAxASESa7hclZ8PaAg",
+  "ParentRef": "JHzqfAidf0Sd7FJgTn8qbg/idFMQbN9s0GyKLd0Wy0WHQ",
+  "Created": "2025-10-15T19:45:19.1044331Z",
+  "Updated": "2025-10-15T19:45:19.1044331Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="We3eFloY90e-Qs7MQCzBaQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-1928, -8, 1936, 1048" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAJMSURBVFhHY0hgvPR/IDEDugC98agDRh1AMwfU6N36/+TKdxS8ru4FhjqaOeDYknf/0UGz5R0MdTRxQIH0tf+/f/1DsfzBuW8Y6kCYJg7Y0vEKxXIQmBnzCEMdCFPdAWncl/9/efcHxfJ3T3/9T2bFVAvCWB1w+9gXFAMOznmLoWZ9wwsUNXdOfAWLL855iiIOAqsqnmPox+uAKSEPUAz48fXv/0yBK3D5JJZLYF8hg2kRD/8nMl36/+L2DxTxH1/+/s8SvIphB14HJDJf+v/6/k8Ug5bmP8XpwHdPfoEdNTEAVRwE9kx5g2E+QQeA8NIC1KB8dv07XO7avs8ocqsrIUF84xBq1P39++9/mcoNDLOJckAG75X/3z6iJqYOx7v/KzVvooj9/Pb3f7bw1f+pnJfBwY+MD8zCTDvoGKcDQHh7D2p2OrX6w//dk16jiCFbAnJ0CvtlDHPwYbwOKJK7/v/Pb0SBAmJ/+4QaKlXaN//niFz9f2nHp////v0DqwE5Et0sXBivA0D4xIr3KBYig8u7PoHVHFmIWexOj3yIYRY2TNABjWa30c2Ggz7v+2A1T65+R5f6v7EJs+LBhgk6AIRvHUFN3SDw/OYPuPyeqW9Q5EBR0WKNWfFgw0Q5YHIQZv5elP0ELg8qfvdOe/P/zcOf/x+e/wYulNDNwIWJckC/z30Uy79++PM/nQdRMlKCiXIAesEDyp7oasjFBB1Qa3ALxfK/f/79L1a4jqGOXEzQAUcXoWax02s/YKihBBN0AK3xqANGHTDgDgAABG/2zL1KBAEAAAAASUVORK5CYII=" Selector="&lt;html app='chrome.exe' title='Yahoo News: Latest and Breaking News, Headlines, Live Updates, and More' /&gt;" Title="Yahoo News: Latest and Breaking News, Headlines, Live Updates, and More" Url="https://news.yahoo.com/?guccounter=1" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="15e34a8e926b4e6897c438ab4016596b.jpg" xmlns="">0LHtByPqRpU6XMeOT2RRLcQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
