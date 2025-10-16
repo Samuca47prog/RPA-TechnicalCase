@@ -136,13 +136,13 @@
       <AssemblyReference>System.ServiceModel.Activities</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:WorkflowViewState.IdRef="Sequence_8">
+  <Sequence sap:VirtualizedContainerService.HintSize="1148.6666666666665,775.3733333333332" sap2010:WorkflowViewState.IdRef="Sequence_8">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <uix:NApplicationCard AttachMode="ByInstance" CloseMode="[UiPath.UIAutomationNext.Enums.NAppCloseMode.Always]" DisplayName="Chrome Yahoo News Latest and Breaking News, H" HealingAgentBehavior="[UiPath.UIAutomationNext.Enums.NHealingAgentBehavior.Disabled]" sap:VirtualizedContainerService.HintSize="450,726.6666666666666" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" InteractionMode="DebuggerApi" OpenMode="[UiPath.UIAutomationNext.Enums.NAppOpenMode.IfNotOpen]" ScopeGuid="443fb68a-c153-43a7-a1a4-5fb3429f56dc" Version="V2" WindowResize="Minimize">
+    <uix:NApplicationCard AttachMode="ByInstance" CloseMode="[UiPath.UIAutomationNext.Enums.NAppCloseMode.Always]" DisplayName="Chrome Yahoo News Latest and Breaking News, H" HealingAgentBehavior="[UiPath.UIAutomationNext.Enums.NHealingAgentBehavior.Disabled]" sap:VirtualizedContainerService.HintSize="450,717.3333333333334" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" InteractionMode="DebuggerApi" OpenMode="[UiPath.UIAutomationNext.Enums.NAppOpenMode.IfNotOpen]" ScopeGuid="443fb68a-c153-43a7-a1a4-5fb3429f56dc" Version="V2" WindowResize="Minimize">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
@@ -158,7 +158,7 @@
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <uix:NInjectJsScript InputParameter="{x:Null}" DisplayName="Inject Js Script 'UL'" sap:VirtualizedContainerService.HintSize="382,192" sap2010:WorkflowViewState.IdRef="NInjectJsScript_1" ScopeIdentifier="443fb68a-c153-43a7-a1a4-5fb3429f56dc" ScriptCode="script.js">
+            <uix:NInjectJsScript InputParameter="{x:Null}" DisplayName="Inject Js Script 'UL'" sap:VirtualizedContainerService.HintSize="382,192" sap2010:WorkflowViewState.IdRef="NInjectJsScript_1" ScopeIdentifier="443fb68a-c153-43a7-a1a4-5fb3429f56dc" ScriptCode="ModuleA-YahooNews\script.js">
               <uix:NInjectJsScript.ScriptOutput>
                 <OutArgument x:TypeArguments="x:String">[output]</OutArgument>
               </uix:NInjectJsScript.ScriptOutput>
