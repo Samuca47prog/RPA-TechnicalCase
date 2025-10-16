@@ -148,6 +148,7 @@
       <AssemblyReference>System.CodeDom</AssemblyReference>
       <AssemblyReference>Microsoft.VisualBasic.Forms</AssemblyReference>
       <AssemblyReference>Microsoft.VisualBasic.Core</AssemblyReference>
+      <AssemblyReference>DeserializeJSON4d05c.cHeXO4kYMGK14weR02RWX7X</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
   <Sequence DisplayName="A_YahooNews_Collector" sap:VirtualizedContainerService.HintSize="1131.3333333333333,843.3333333333334" sap2010:WorkflowViewState.IdRef="Sequence_1">
@@ -155,7 +156,7 @@
       <Variable x:TypeArguments="sd:DataTable" Name="dt_news" />
       <Variable x:TypeArguments="x:String" Name="outputFileName">
         <Variable.Default>
-          <Literal x:TypeArguments="x:String">Data/news_raw_&lt;DATA&gt;.csv</Literal>
+          <Literal x:TypeArguments="x:String">Data/Input/news_raw_&lt;DATA&gt;.csv</Literal>
         </Variable.Default>
       </Variable>
     </Sequence.Variables>
